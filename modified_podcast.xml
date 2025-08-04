@@ -1,0 +1,2286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:pa="http://podcastaddict.com"
+    xmlns:podcastRF="http://radiofrance.fr/Lancelot/Podcast#"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+    <channel>
+        <title>Les aventures de Toudou</title>
+        <link>https://www.radiofrance.fr/franceinter/podcasts/toudou</link>
+        <description>Un podcast 2 en 1 pour les tout-petits et leurs parents ! Une face A : une
+            histoire pour les enfants de 2 à 4 ans avec Toudou le doudou tout mou, tout chou, tout
+            fou. Une face B : une notice pour comprendre ce que Toudou active dans le cerveau des
+            enfants
+
+            Vous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur
+            &lt;a
+            href="https://www.radiofrance.fr/franceinter/podcasts/toudou?at_campaign=desc_podcast&amp;at_medium=lien_RSS"&gt;Radio
+            France&lt;/a&gt;.</description>
+        <language>fr</language>
+        <copyright>Radio France</copyright>
+        <generator>Radio France</generator>
+        <image>
+            <url>
+                https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/0e9a29ba-7954-47ae-b0c6-b8cb16efdf3d/1400x1400_rf_omm_0000037236_ite.jpg</url>
+            <title>Les aventures de Toudou</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou</link>
+        </image>
+        <itunes:author>France Inter</itunes:author>
+        <itunes:category text="Leisure" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image
+            href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/0e9a29ba-7954-47ae-b0c6-b8cb16efdf3d/1400x1400_rf_omm_0000037236_ite.jpg" />
+        <itunes:owner>
+            <itunes:email>podcast@radiofrance.com</itunes:email>
+            <itunes:name>Radio France</itunes:name>
+        </itunes:owner>
+        <itunes:subtitle>Les aventures de Toudou</itunes:subtitle>
+        <itunes:summary />
+        <itunes:new-feed-url>
+            https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_23713.xml</itunes:new-feed-url>
+        <pa:new-feed-url>
+            https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_23713.xml</pa:new-feed-url>
+        <podcastRF:originStation>1</podcastRF:originStation>
+        <googleplay:block>yes</googleplay:block>
+        <item>
+            <title>60/60 : Toudou et les nuages</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-les-nuages-9296300</link>
+            <description>durée : 00:08:12 - Toudou - Toudou regarde les nuages et imagine, à partir
+                de leur forme, tout un tas de créatures. Que c'est agréable de regarder le ciel ! Il
+                n'en oublie pas pour autant ses gaufrettes préférées... - invités : Zoé Varier - Zoé
+                Varier : Productrice et auteure du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/be63c7c8-9d5f-4794-beab-bfb2174feddf/23713-20.06.2025-ITEMA_24175362-2025F49744E0015-NET_MFI_B199011F-0C00-40D5-9C81-F8532603EEEF-21.mp3"
+                length="7911139" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                c7b81c7c-6a26-4f97-ab7c-12363495961b-NET_MFI_B199011F-0C00-40D5-9C81-F8532603EEEF</guid>
+            <pubDate>Fri, 20 Jun 2025 04:00:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0015</podcastRF:magnetothequeID>
+            <itunes:title>60/60 : Toudou et les nuages</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>60/60 : Toudou et les nuages</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>60/60 : Toudou et les nuages</itunes:subtitle>
+            <itunes:summary>durée : 00:08:12 - Toudou - Toudou regarde les nuages et imagine, à
+                partir de leur forme, tout un tas de créatures. Que c'est agréable de regarder le
+                ciel ! Il n'en oublie pas pour autant ses gaufrettes préférées... - invités : Zoé
+                Varier - Zoé Varier : Productrice et auteure du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:08:12</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>59/60 : Toudou et le petit poussin jaune</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-le-petit-poussin-jaune-4286343</link>
+            <description>durée : 00:09:22 - Toudou - Toudou le doudou est tout mou, tout fou, tout
+                choux ! Alors qu'il est à la campagne, il découvre une mare aux canards. Près de
+                celle-ci, il tombe nez à nez avec un petit poussin perdu. Il se donne alors pour
+                mission de l'aider ! - invités : Zoé Varier - Zoé Varier : Productrice et auteure du
+                podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/eace96df-f280-4daa-b379-3f0e8825c33f/23713-20.06.2025-ITEMA_24175362-2025F49744E0014-NET_MFI_5CD521A3-9DF9-4ABB-BEE4-D64CD5150DA2-21.mp3"
+                length="9031364" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                2e13977b-b84c-4fba-a3c8-48fcb771374c-NET_MFI_5CD521A3-9DF9-4ABB-BEE4-D64CD5150DA2</guid>
+            <pubDate>Fri, 20 Jun 2025 04:01:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0014</podcastRF:magnetothequeID>
+            <itunes:title>59/60 : Toudou et le petit poussin jaune</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>59/60 : Toudou et le petit poussin jaune</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>59/60 : Toudou et le petit poussin jaune</itunes:subtitle>
+            <itunes:summary>durée : 00:09:22 - Toudou - Toudou le doudou est tout mou, tout fou,
+                tout choux ! Alors qu'il est à la campagne, il découvre une mare aux canards. Près
+                de celle-ci, il tombe nez à nez avec un petit poussin perdu. Il se donne alors pour
+                mission de l'aider ! - invités : Zoé Varier - Zoé Varier : Productrice et auteure du
+                podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:09:22</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>58/60 : Toudou et la boîte à trésors</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-la-boite-a-tresors-4424013</link>
+            <description>durée : 00:06:56 - Toudou - Dans la boîte à trésors de Toudou, il y a tout
+                un monde ! Il y a même un coquillage, alors le doudou se met à rêver... - invités :
+                Zoé Varier - Zoé Varier : Productrice et auteure du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/76d9e77a-cff9-4d66-a823-d0b733867ee4/23713-20.06.2025-ITEMA_24175362-2025F49744E0013-NET_MFI_C9D93B94-EC39-4DEF-9C6B-476B013B08C3-21.mp3"
+                length="6688092" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                2b00c459-8086-466b-adbf-1297667983a2-NET_MFI_C9D93B94-EC39-4DEF-9C6B-476B013B08C3</guid>
+            <pubDate>Fri, 20 Jun 2025 04:02:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0013</podcastRF:magnetothequeID>
+            <itunes:title>58/60 : Toudou et la boîte à trésors</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>58/60 : Toudou et la boîte à trésors</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>58/60 : Toudou et la boîte à trésors</itunes:subtitle>
+            <itunes:summary>durée : 00:06:56 - Toudou - Dans la boîte à trésors de Toudou, il y a
+                tout un monde ! Il y a même un coquillage, alors le doudou se met à rêver... -
+                invités : Zoé Varier - Zoé Varier : Productrice et auteure du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:56</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>57/60 : Toudou et la sirène</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-la-sirene-1382788</link>
+            <description>durée : 00:09:07 - Toudou - par : Zoé Varier - Toudou vit une aventure
+                extraordinaire sur un grand bateau à voile. Il croise un dauphin, des pêcheurs et...
+                une sirène ! - invités : Zoé Varier - Zoé Varier : Productrice et auteure du podcast
+                "Naître" - réalisé par : Anna BUY
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/8b964c13-08bd-4420-8193-1f420a7a2152/23713-20.06.2025-ITEMA_24175362-2025F49744E0012-NET_MFI_2FD0723F-5FC7-4200-85DB-E154CBBE2652-21.mp3"
+                length="8790010" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                5e31be54-63df-4644-8f92-c2c28ae0d5a6-NET_MFI_2FD0723F-5FC7-4200-85DB-E154CBBE2652</guid>
+            <pubDate>Fri, 20 Jun 2025 04:03:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0012</podcastRF:magnetothequeID>
+            <itunes:title>57/60 : Toudou et la sirène</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>57/60 : Toudou et la sirène</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>57/60 : Toudou et la sirène</itunes:subtitle>
+            <itunes:summary>durée : 00:09:07 - Toudou - par : Zoé Varier - Toudou vit une aventure
+                extraordinaire sur un grand bateau à voile. Il croise un dauphin, des pêcheurs et...
+                une sirène ! - invités : Zoé Varier - Zoé Varier : Productrice et auteure du podcast
+                "Naître" - réalisé par : Anna BUY
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:09:07</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>56/60 : Toudou et l'orage</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/podcasts-natifs-du-dimanche-18-mai-2025-4144842</link>
+            <description>durée : 00:07:30 - Toudou - par : Zoé Varier - Il fait chaud en cette
+                journée d'été. Alors que Toudou regarde le ciel en s'ennuyant, un orage éclate, quel
+                spectacle ! - invités : Zoé Varier - Zoé Varier : Productrice et auteure du podcast
+                "Naître" - réalisé par : Anna BUY
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/dd8d18ec-143f-4983-9bc8-c4df35bd1e3e/23713-20.06.2025-ITEMA_24175362-2025F49744E0011-NET_MFI_8F742A7D-8F5E-4D4A-9CF8-08268D68B1D8-21.mp3"
+                length="7226394" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                80e952da-6313-43b5-a148-b78bc92a03f6-NET_MFI_8F742A7D-8F5E-4D4A-9CF8-08268D68B1D8</guid>
+            <pubDate>Fri, 20 Jun 2025 04:04:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0011</podcastRF:magnetothequeID>
+            <itunes:title>56/60 : Toudou et l'orage</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>56/60 : Toudou et l'orage</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>56/60 : Toudou et l'orage</itunes:subtitle>
+            <itunes:summary>durée : 00:07:30 - Toudou - par : Zoé Varier - Il fait chaud en cette
+                journée d'été. Alors que Toudou regarde le ciel en s'ennuyant, un orage éclate, quel
+                spectacle ! - invités : Zoé Varier - Zoé Varier : Productrice et auteure du podcast
+                "Naître" - réalisé par : Anna BUY
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:30</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>55/60 : Toudou fait de la trottinette</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-fait-de-la-trottinette-josepha-4218551</link>
+            <description>durée : 00:07:07 - Toudou - Toudou est content, il a reçu un cadeau dont il
+                rêvait depuis longtemps : une trottinette.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/d221682e-95b1-4d43-9121-8ada55eba300/23713-02.05.2025-ITEMA_24100734-2025F49744E0008-NET_MFI_DF18580B-0F0A-4560-A1DE-E26A7D80673D-21.mp3"
+                length="6859787" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                e6f81707-1a7c-4414-a93f-448e9b41b6e7-NET_MFI_DF18580B-0F0A-4560-A1DE-E26A7D80673D</guid>
+            <pubDate>Fri, 02 May 2025 04:02:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0008</podcastRF:magnetothequeID>
+            <itunes:title>55/60 : Toudou fait de la trottinette</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>55/60 : Toudou fait de la trottinette</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>55/60 : Toudou fait de la trottinette</itunes:subtitle>
+            <itunes:summary>durée : 00:07:07 - Toudou - Toudou est content, il a reçu un cadeau dont
+                il rêvait depuis longtemps : une trottinette.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:07</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>54/60 : Toudou et la boîte à musique</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-la-boite-a-musique-josepha-2727012</link>
+            <description>durée : 00:07:16 - Toudou - La chambre de Toudou était tout en bazar ce
+                matin. Et parmi tout cela, le doudou tous doux retrouve sa boîte à musique, celle
+                qu'il écoutait lorsqu'il était un tout petit doudou.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/bdda27a6-b4c9-4842-83e5-15554273dbc7/23713-02.05.2025-ITEMA_24100734-2025F49744E0009-NET_MFI_C006D0CB-D792-4C6A-AFF0-393D7CF6FBC1-21.mp3"
+                length="7013384" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                9b612ce3-0c25-4376-8dbd-4d42174826ed-NET_MFI_C006D0CB-D792-4C6A-AFF0-393D7CF6FBC1</guid>
+            <pubDate>Fri, 02 May 2025 04:01:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0009</podcastRF:magnetothequeID>
+            <itunes:title>54/60 : Toudou et la boîte à musique</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>54/60 : Toudou et la boîte à musique</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>54/60 : Toudou et la boîte à musique</itunes:subtitle>
+            <itunes:summary>durée : 00:07:16 - Toudou - La chambre de Toudou était tout en bazar ce
+                matin. Et parmi tout cela, le doudou tous doux retrouve sa boîte à musique, celle
+                qu'il écoutait lorsqu'il était un tout petit doudou.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:16</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>53/60 : Toudou et le tout petit poney roux</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-fait-du-poney-josepha-5549682</link>
+            <description>durée : 00:08:19 - Toudou - Toudou est au parc, il se balade parmi ses
+                coins favoris quand il aperçoit un attroupement, tout au bout là-bas. Des poneys
+                sont arrivés.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/bb61a2a6-7d64-4e6d-ae32-c7f7e2b11f96/23713-02.05.2025-ITEMA_24100734-2025F49744E0010-NET_MFI_0DC249D5-940C-4AC7-A647-AACC190C7473-21.mp3"
+                length="8024320" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                1b927273-9e46-4fc1-b4bb-2915046499e7-NET_MFI_0DC249D5-940C-4AC7-A647-AACC190C7473</guid>
+            <pubDate>Fri, 02 May 2025 04:00:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0010</podcastRF:magnetothequeID>
+            <itunes:title>53/60 : Toudou et le tout petit poney roux</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>53/60 : Toudou et le tout petit poney roux</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>53/60 : Toudou et le tout petit poney roux</itunes:subtitle>
+            <itunes:summary>durée : 00:08:19 - Toudou - Toudou est au parc, il se balade parmi ses
+                coins favoris quand il aperçoit un attroupement, tout au bout là-bas. Des poneys
+                sont arrivés.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:08:19</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>52/60 : Toudou va à la piscine</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/podcasts-natifs-du-lundi-07-avril-2025-3994938</link>
+            <description>durée : 00:09:54 - Toudou - Toudou découvre la piscine. Le maillot de bain,
+                le bonnet, les casiers pour ranger ses affaires, c'est le grand plongeon pour
+                Toudou.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/d040cfcf-00bf-4178-964c-ba7c9069d93f/23713-02.05.2025-ITEMA_24100734-2025F49744E0007-NET_MFI_01987DBC-5B1C-439B-B1C5-BAF6E11F5F4C-21.mp3"
+                length="9537338" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                4f97dbfe-fa28-4a08-90ff-e33e3cdfc99b-NET_MFI_01987DBC-5B1C-439B-B1C5-BAF6E11F5F4C</guid>
+            <pubDate>Fri, 02 May 2025 04:03:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0007</podcastRF:magnetothequeID>
+            <itunes:title>52/60 : Toudou va à la piscine</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>52/60 : Toudou va à la piscine</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>52/60 : Toudou va à la piscine</itunes:subtitle>
+            <itunes:summary>durée : 00:09:54 - Toudou - Toudou découvre la piscine. Le maillot de
+                bain, le bonnet, les casiers pour ranger ses affaires, c'est le grand plongeon pour
+                Toudou.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:09:54</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>51/60 : Toudou fait le ménage</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/podcasts-natifs-du-lundi-31-mars-2025-3685340</link>
+            <description>durée : 00:08:03 - Toudou - Aujourd'hui, Toudou fait le ménage, il adore
+                ça. Balai, aspirateur, vaisselle, rien n'échappe au petit doudou.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/dfc5b897-875d-45b0-8171-ea4464d7f62f/23713-02.05.2025-ITEMA_24100734-2025F49744E0006-NET_MFI_FFB62471-19E9-4E54-8C11-73343884C0AE-21.mp3"
+                length="7765561" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                d89b0531-ff80-459a-a25b-1392c30a23ec-NET_MFI_FFB62471-19E9-4E54-8C11-73343884C0AE</guid>
+            <pubDate>Fri, 02 May 2025 04:04:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0006</podcastRF:magnetothequeID>
+            <itunes:title>51/60 : Toudou fait le ménage</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>51/60 : Toudou fait le ménage</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>51/60 : Toudou fait le ménage</itunes:subtitle>
+            <itunes:summary>durée : 00:08:03 - Toudou - Aujourd'hui, Toudou fait le ménage, il adore
+                ça. Balai, aspirateur, vaisselle, rien n'échappe au petit doudou.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:08:03</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>50/60 : Toudou et la baguette magique</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-la-baguette-magique-3702583</link>
+            <description>durée : 00:06:08 - Toudou - Toudou reçoit une baguette magique ! Mais pour
+                l’utiliser, il faut connaître le mot magique… Abracadabra ? Une nouvelle histoire de
+                Toudou, pleine de magie et de gourmandises. - invités : Zoé Varier - Zoé Varier :
+                Productrice et auteure du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/7e0c86d0-6b80-4bc2-918d-352338620d4b/23713-12.03.2025-ITEMA_23992269-2025F49744E0001-NET_MFI_B5EF9300-F788-4AC7-9E13-064F5C5EB212-21.mp3"
+                length="5928744" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                09fad9e1-b7f4-4586-b50a-3c5e88bb1297-NET_MFI_B5EF9300-F788-4AC7-9E13-064F5C5EB212</guid>
+            <pubDate>Wed, 12 Mar 2025 07:00:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0001</podcastRF:magnetothequeID>
+            <itunes:title>50/60 : Toudou et la baguette magique</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>50/60 : Toudou et la baguette magique</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>50/60 : Toudou et la baguette magique</itunes:subtitle>
+            <itunes:summary>durée : 00:06:08 - Toudou - Toudou reçoit une baguette magique ! Mais
+                pour l’utiliser, il faut connaître le mot magique… Abracadabra ? Une nouvelle
+                histoire de Toudou, pleine de magie et de gourmandises. - invités : Zoé Varier - Zoé
+                Varier : Productrice et auteure du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:08</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>49/60 : Toudou prend le train</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/podcasts-natifs-du-lundi-27-janvier-2025-2240078</link>
+            <description>durée : 00:08:46 - Toudou - Embarquez avec Toudou pour un voyage
+                ferroviaire haut en couleur ! Des paysages bucoliques aux péripéties amusantes avec
+                un petit chien... le doudou découvre le train avec entrain. - invités : Zoé Varier -
+                Zoé Varier : Productrice et auteure du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/8620b2ed-4fc5-443a-9230-1f3b355324e6/23713-26.02.2025-ITEMA_24012268-2025F49744E0003-NET_MFI_B5B4E4F5-2C23-4AAA-ADEC-FC5CC324D93F-21.mp3"
+                length="8454057" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                5ee91e5e-6626-43ca-a8af-c79b75a0ff9a-NET_MFI_B5B4E4F5-2C23-4AAA-ADEC-FC5CC324D93F</guid>
+            <pubDate>Wed, 26 Feb 2025 06:02:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0003</podcastRF:magnetothequeID>
+            <itunes:title>49/60 : Toudou prend le train</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>49/60 : Toudou prend le train</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>49/60 : Toudou prend le train</itunes:subtitle>
+            <itunes:summary>durée : 00:08:46 - Toudou - Embarquez avec Toudou pour un voyage
+                ferroviaire haut en couleur ! Des paysages bucoliques aux péripéties amusantes avec
+                un petit chien... le doudou découvre le train avec entrain. - invités : Zoé Varier -
+                Zoé Varier : Productrice et auteure du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:08:46</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>48/60 : Toudou est grognon</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/podcasts-natifs-du-lundi-20-janvier-2025-5020158</link>
+            <description>durée : 00:06:23 - Toudou - Ce matin, Toudou est de mauvais poil ! Dans
+                cette histoire, Toudou, le doudou grognon, apprend à gérer ses émotions grâce à une
+                rencontre inattendue. - invités : Zoé Varier - Zoé Varier : Productrice et auteure
+                du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/0a9390e9-ad47-4ec1-806b-ab8a489e5d02/23713-26.02.2025-ITEMA_24012268-2025F49744E0002-NET_MFI_63A83707-D94D-454A-ACB2-8B1E0419B29A-21.mp3"
+                length="6159812" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                60bb2e6d-f6f2-415a-8a9a-073c8c6c4921-NET_MFI_63A83707-D94D-454A-ACB2-8B1E0419B29A</guid>
+            <pubDate>Wed, 26 Feb 2025 06:03:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0002</podcastRF:magnetothequeID>
+            <itunes:title>48/60 : Toudou est grognon</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>48/60 : Toudou est grognon</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>48/60 : Toudou est grognon</itunes:subtitle>
+            <itunes:summary>durée : 00:06:23 - Toudou - Ce matin, Toudou est de mauvais poil ! Dans
+                cette histoire, Toudou, le doudou grognon, apprend à gérer ses émotions grâce à une
+                rencontre inattendue. - invités : Zoé Varier - Zoé Varier : Productrice et auteure
+                du podcast "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:23</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>47/60 : Toudou fait une soirée pyjama</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/podcasts-natifs-du-lundi-03-fevrier-2025-9401452</link>
+            <description>durée : 00:07:47 - Toudou - Toudou organise sa première soirée pyjama ! Au
+                programme : jeux et pop-corn maison. Une nuit riche en émotions pour le doudou et
+                ses amis. - invités : Zoé Varier - Zoé Varier : Productrice et auteure du podcast
+                "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/889796f7-2cef-478e-83f8-14092e674057/23713-26.02.2025-ITEMA_24012268-2025F49744E0004-NET_MFI_9CDB0083-53D9-4E06-8F61-63B0044666F4-21.mp3"
+                length="7497721" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                0e8672d2-ea47-4d37-90c8-0a7edf4de9a3-NET_MFI_9CDB0083-53D9-4E06-8F61-63B0044666F4</guid>
+            <pubDate>Wed, 26 Feb 2025 06:01:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0004</podcastRF:magnetothequeID>
+            <itunes:title>47/60 : Toudou fait une soirée pyjama</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>47/60 : Toudou fait une soirée pyjama</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>47/60 : Toudou fait une soirée pyjama</itunes:subtitle>
+            <itunes:summary>durée : 00:07:47 - Toudou - Toudou organise sa première soirée pyjama !
+                Au programme : jeux et pop-corn maison. Une nuit riche en émotions pour le doudou et
+                ses amis. - invités : Zoé Varier - Zoé Varier : Productrice et auteure du podcast
+                "Naître"
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:47</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>46/60 : Toudou a un rhume</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/les-aventures-de-toudou-7715008</link>
+            <description>durée : 00:06:32 - Toudou - par : Sylvie CHOKRON, Zoé Varier - Un gros
+                rhume accable Toudou ! Fatigue, mal de tête… Comment le doudou va-t-il réussir à
+                s'en remettre ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/7a13b397-fbbb-46a5-88d1-89d48d7d4c10/23713-26.02.2025-ITEMA_24012268-2025F49744E0005-NET_MFI_DDCBA4F8-B00B-4A43-8947-EF1E8D6DF22A-21.mp3"
+                length="6312320" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                c61f1ae8-86cc-4f48-947f-2b50fb58724c-NET_MFI_DDCBA4F8-B00B-4A43-8947-EF1E8D6DF22A</guid>
+            <pubDate>Wed, 26 Feb 2025 06:00:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2025F49744E0005</podcastRF:magnetothequeID>
+            <itunes:title>46/60 : Toudou a un rhume</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Sylvie CHOKRON, Zoé Varier</itunes:author>
+            <itunes:keywords>46/60 : Toudou a un rhume</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>46/60 : Toudou a un rhume</itunes:subtitle>
+            <itunes:summary>durée : 00:06:32 - Toudou - par : Sylvie CHOKRON, Zoé Varier - Un gros
+                rhume accable Toudou ! Fatigue, mal de tête… Comment le doudou va-t-il réussir à
+                s'en remettre ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:32</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>45/60 : Toudou et le moustique</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/les-aventures-de-toudou-6622122</link>
+            <description>durée : 00:07:47 - Toudou - par : Zoé Varier, Sylvie CHOKRON - Toudou se
+                couche tranquillement même s'il n'en a pas très envie. Mais un moustique est entré
+                dans sa chambre...
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/e09638e5-daef-4db6-a812-33a91f305cb5/23713-30.10.2024-ITEMA_23908843-2024F49744E0011-21.mp3"
+                length="7498089" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                f6d40cf4-9935-424b-86df-5b77a52706f6-NET_MFI_5AF3D85B-39FE-43F2-BF61-17D6BDC72809</guid>
+            <pubDate>Wed, 30 Oct 2024 08:04:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0011</podcastRF:magnetothequeID>
+            <itunes:title>45/60 : Toudou et le moustique</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier, Sylvie CHOKRON</itunes:author>
+            <itunes:keywords>45/60 : Toudou et le moustique</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>45/60 : Toudou et le moustique</itunes:subtitle>
+            <itunes:summary>durée : 00:07:47 - Toudou - par : Zoé Varier, Sylvie CHOKRON - Toudou se
+                couche tranquillement même s'il n'en a pas très envie. Mais un moustique est entré
+                dans sa chambre...
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:47</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>44/60 : Toudou fait du bricolage</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/les-aventures-de-toudou-6344561</link>
+            <description>durée : 00:09:38 - Toudou - par : Zoé Varier, Sylvie CHOKRON - Toudou se
+                lance dans la construction d'une maison en carton pour les oiseaux. Quelles sont les
+                étapes ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/bb89e3b9-9491-47fd-a1e8-164fb7138f85/23713-30.10.2024-ITEMA_23908843-2024F49744E0012-21.mp3"
+                length="9277745" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                98991b99-ce2a-4995-84ee-a1c0614ba5d5-NET_MFI_72335215-B4C7-427F-9921-D0E95218C2F8</guid>
+            <pubDate>Wed, 30 Oct 2024 08:03:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0012</podcastRF:magnetothequeID>
+            <itunes:title>44/60 : Toudou fait du bricolage</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier, Sylvie CHOKRON</itunes:author>
+            <itunes:keywords>44/60 : Toudou fait du bricolage</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>44/60 : Toudou fait du bricolage</itunes:subtitle>
+            <itunes:summary>durée : 00:09:38 - Toudou - par : Zoé Varier, Sylvie CHOKRON - Toudou se
+                lance dans la construction d'une maison en carton pour les oiseaux. Quelles sont les
+                étapes ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:09:38</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>43/60 : Toudou et les flaques d'eau</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/les-aventures-de-toudou-7335608</link>
+            <description>durée : 00:07:49 - Toudou - par : Zoé Varier, Sylvie CHOKRON - Toudou adore
+                jouer sous la pluie et quand il y a des flaques, il est heureux !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/28538f1f-e8df-4725-9e98-3c091ecb7bad/23713-30.10.2024-ITEMA_23908843-2024F49744E0013-21.mp3"
+                length="7541408" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                4683811e-89c4-4667-ac2f-53ed73f53412-NET_MFI_94D44FC9-1EFD-4064-A42A-2D31359AF380</guid>
+            <pubDate>Wed, 30 Oct 2024 08:02:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0013</podcastRF:magnetothequeID>
+            <itunes:title>43/60 : Toudou et les flaques d'eau</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier, Sylvie CHOKRON</itunes:author>
+            <itunes:keywords>43/60 : Toudou et les flaques d'eau</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>43/60 : Toudou et les flaques d'eau</itunes:subtitle>
+            <itunes:summary>durée : 00:07:49 - Toudou - par : Zoé Varier, Sylvie CHOKRON - Toudou
+                adore jouer sous la pluie et quand il y a des flaques, il est heureux !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:49</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>42/60 : Toudou pique-nique</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/les-aventures-de-toudou-1001785</link>
+            <description>durée : 00:09:03 - Toudou - par : Zoé Varier, Sylvie CHOKRON - C’est l’été.
+                Il fait beau mais pas trop chaud. C’est l’heure de déjeuner. Toudou le doudou a
+                décidé de pique-niquer. Mais des petites bêtes viennent l'embêter.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/92a2ceaa-820c-4085-b75f-fd8514cf8888/23713-30.10.2024-ITEMA_23908843-2024F49744E0014-21.mp3"
+                length="8724893" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                1f830e86-b683-474e-8d36-bdf010666872-NET_MFI_5804DA6D-FD71-4F8C-86B0-AA623F9E9C48</guid>
+            <pubDate>Wed, 30 Oct 2024 08:01:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0014</podcastRF:magnetothequeID>
+            <itunes:title>42/60 : Toudou pique-nique</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier, Sylvie CHOKRON</itunes:author>
+            <itunes:keywords>42/60 : Toudou pique-nique</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>42/60 : Toudou pique-nique</itunes:subtitle>
+            <itunes:summary>durée : 00:09:03 - Toudou - par : Zoé Varier, Sylvie CHOKRON - C’est
+                l’été. Il fait beau mais pas trop chaud. C’est l’heure de déjeuner. Toudou le doudou
+                a décidé de pique-niquer. Mais des petites bêtes viennent l'embêter.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:09:03</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>41/60 : Toudou et le livre d'images</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/les-aventures-de-toudou-4918890</link>
+            <description>durée : 00:09:11 - Toudou - par : Zoé Varier, Sylvie CHOKRON - Toudou
+                consulte un beau livre. Il y voit un paysage de neige, des arbres, le désert... Que
+                c'est beau !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/a7c03543-d76f-43dd-9ae1-02e4f10dc58c/23713-30.10.2024-ITEMA_23908843-2024F49744E0015-21.mp3"
+                length="8849758" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                525892e1-6f7e-4896-bc93-4b757090b8e5-NET_MFI_4939EF5C-9AE1-4E3C-9CF1-47CCEB3F1E2C</guid>
+            <pubDate>Wed, 30 Oct 2024 08:00:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0015</podcastRF:magnetothequeID>
+            <itunes:title>41/60 : Toudou et le livre d'images</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier, Sylvie CHOKRON</itunes:author>
+            <itunes:keywords>41/60 : Toudou et le livre d'images</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>41/60 : Toudou et le livre d'images</itunes:subtitle>
+            <itunes:summary>durée : 00:09:11 - Toudou - par : Zoé Varier, Sylvie CHOKRON - Toudou
+                consulte un beau livre. Il y voit un paysage de neige, des arbres, le désert... Que
+                c'est beau !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:09:11</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>40/60 : Toudou et le calme</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-le-calme-6805779</link>
+            <description>durée : 00:07:54 - Toudou - Dans cet épisode, Toudou arrive à s'échapper un
+                peu de la clameur de la ville pour profiter de l'eau d'une fontaine, du vert d'un
+                grand parc et même de quelques animaux.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/c6d36d4f-5a4d-4bdc-be62-0d770b55662a/23713-12.06.2024-ITEMA_23771204-2024F49744E0010-21.mp3"
+                length="7624801" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                9eb11528-f8fa-452d-bf07-2fd87ce5ae4a-NET_MFI_C5D259E5-9B8B-4D9B-92E0-B2AC3C6CAEB7</guid>
+            <pubDate>Wed, 12 Jun 2024 05:04:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0010</podcastRF:magnetothequeID>
+            <itunes:title>40/60 : Toudou et le calme</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>40/60 : Toudou et le calme</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>40/60 : Toudou et le calme</itunes:subtitle>
+            <itunes:summary>durée : 00:07:54 - Toudou - Dans cet épisode, Toudou arrive à s'échapper
+                un peu de la clameur de la ville pour profiter de l'eau d'une fontaine, du vert d'un
+                grand parc et même de quelques animaux.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:54</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>39/60 : Toudou et le bruit</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-le-bruit-5053499</link>
+            <description>durée : 00:07:51 - Toudou - Dans la rue, Toudou découvre plein de bruits,
+                les moteurs, les travaux, les aboiements des chiens... ça ne s'arrête pas !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/5881d92c-d4b4-4c9b-a140-fca718acf370/23713-12.06.2024-ITEMA_23771204-2024F49744E0009-21.mp3"
+                length="7561595" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                df8d6107-3b1e-4baa-8fb1-460696e6dcbb-NET_MFI_8EA5926E-1A6D-4DE5-83A3-74CFAC225DF4</guid>
+            <pubDate>Wed, 12 Jun 2024 05:03:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0009</podcastRF:magnetothequeID>
+            <itunes:title>39/60 : Toudou et le bruit</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>39/60 : Toudou et le bruit</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>39/60 : Toudou et le bruit</itunes:subtitle>
+            <itunes:summary>durée : 00:07:51 - Toudou - Dans la rue, Toudou découvre plein de
+                bruits, les moteurs, les travaux, les aboiements des chiens... ça ne s'arrête pas !
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:51</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>38/60 : Toudou se bagarre</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-se-bagarre-8249753</link>
+            <description>durée : 00:06:10 - Toudou - Le canard et Toudou se bagarrent... Quand on
+                n’est pas d’accord avec quelqu’un, ou quand on est très fâché, on peut en parler, on
+                peut dire calmement ce qui ne va pas, plutôt que de se bagarrer.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/84ecf691-396e-49c9-b743-a5f4bdfff1ca/23713-12.06.2024-ITEMA_23771204-2024F49744E0008-21.mp3"
+                length="5956773" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                8511c432-5bd0-4347-9c9c-130fbd819deb-NET_MFI_164B54BD-ED21-418A-A06E-6C28E549E4B3</guid>
+            <pubDate>Wed, 12 Jun 2024 05:02:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0008</podcastRF:magnetothequeID>
+            <itunes:title>38/60 : Toudou se bagarre</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>38/60 : Toudou se bagarre</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>38/60 : Toudou se bagarre</itunes:subtitle>
+            <itunes:summary>durée : 00:06:10 - Toudou - Le canard et Toudou se bagarrent... Quand on
+                n’est pas d’accord avec quelqu’un, ou quand on est très fâché, on peut en parler, on
+                peut dire calmement ce qui ne va pas, plutôt que de se bagarrer.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:10</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>37/60 : Toudou a un gros chagrin</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-a-un-gros-chagrin-2687705</link>
+            <description>durée : 00:08:03 - Toudou - Toudou est tout triste et il pleure. Tout le
+                monde essaie de le consoler, sans succès. Ce sera un chien, tout triste lui aussi,
+                qui parviendra à le faire se sentir mieux.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/895ffe2f-37da-4350-b269-fbf037d4e173/23713-12.06.2024-ITEMA_23771204-2024F49744E0007-21.mp3"
+                length="7768587" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                ae87d341-e1fb-4472-b506-5704b5eb0c0b-NET_MFI_E26D6AC9-E244-499E-8521-3BDBD1B7BE86</guid>
+            <pubDate>Wed, 12 Jun 2024 05:01:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0007</podcastRF:magnetothequeID>
+            <itunes:title>37/60 : Toudou a un gros chagrin</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>37/60 : Toudou a un gros chagrin</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>37/60 : Toudou a un gros chagrin</itunes:subtitle>
+            <itunes:summary>durée : 00:08:03 - Toudou - Toudou est tout triste et il pleure. Tout le
+                monde essaie de le consoler, sans succès. Ce sera un chien, tout triste lui aussi,
+                qui parviendra à le faire se sentir mieux.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:08:03</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>36/60 : Toudou se fait beau</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-se-fait-beau-2311210</link>
+            <description>durée : 00:07:38 - Toudou - Toudou se prépare. Il se fait beau pour aller
+                au bal des doudous ! C'est la première fois qu'il est invité. Il s'y rend en
+                carrosse.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/d00feae1-97fa-4051-8cca-e47bc60c50e0/23713-12.06.2024-ITEMA_23771204-2024F49744E0006-21.mp3"
+                length="7355145" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                0a630781-727b-4da4-9715-3e3bb2669064-NET_MFI_3EABDE16-9EA2-48DD-8080-4A830F6104CC</guid>
+            <pubDate>Wed, 12 Jun 2024 05:00:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0006</podcastRF:magnetothequeID>
+            <itunes:title>36/60 : Toudou se fait beau</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>36/60 : Toudou se fait beau</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>36/60 : Toudou se fait beau</itunes:subtitle>
+            <itunes:summary>durée : 00:07:38 - Toudou - Toudou se prépare. Il se fait beau pour
+                aller au bal des doudous ! C'est la première fois qu'il est invité. Il s'y rend en
+                carrosse.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:38</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>35/60 : Toudou et le bébé doudou</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-le-bebe-doudou-7873758</link>
+            <description>durée : 00:10:46 - Toudou - Dans cette histoire, Toudou rencontre un bébé
+                doudou. D'abord interloqué, il apprend peu à peu à le connaître et à s'en occuper.
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/ce8d5cae-d9fd-49bb-ae78-b5842d21601f/23713-16.01.2024-ITEMA_23610265-2024F49744E0001-21.mp3"
+                length="10373668" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                e03f3a1d-3561-4882-bed0-d601ae453a63-NET_MFI_B696AD7B-FB31-494F-95F7-EB914F0FD530</guid>
+            <pubDate>Tue, 16 Jan 2024 09:08:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0001</podcastRF:magnetothequeID>
+            <itunes:title>35/60 : Toudou et le bébé doudou</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>35/60 : Toudou et le bébé doudou</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>35/60 : Toudou et le bébé doudou</itunes:subtitle>
+            <itunes:summary>durée : 00:10:46 - Toudou - Dans cette histoire, Toudou rencontre un
+                bébé doudou. D'abord interloqué, il apprend peu à peu à le connaître et à s'en
+                occuper.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:10:46</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>34/60 : Toudou est un super-héros</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-super-heros-8724790</link>
+            <description>durée : 00:06:31 - Toudou - Dans cette histoire, Toudou sent qu'il y a un
+                cauchemar dans le placard, mais ce n'est pas grave, car c'est un super-héros !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/0b3ab39d-3c67-4e17-af7b-c039df83ddde/23713-16.01.2024-ITEMA_23610265-2024F49744E0002-21.mp3"
+                length="6291455" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                9c139d49-ef1c-4460-9cc5-10a0dacece96-NET_MFI_C0D186AE-F491-4F82-AF28-AD70E2876738</guid>
+            <pubDate>Tue, 16 Jan 2024 09:06:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0002</podcastRF:magnetothequeID>
+            <itunes:title>34/60 : Toudou est un super-héros</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>34/60 : Toudou est un super-héros</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>34/60 : Toudou est un super-héros</itunes:subtitle>
+            <itunes:summary>durée : 00:06:31 - Toudou - Dans cette histoire, Toudou sent qu'il y a
+                un cauchemar dans le placard, mais ce n'est pas grave, car c'est un super-héros !
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:31</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>33/60 : Toudou sur le chemin de l'école</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-sur-le-chemin-de-l-ecole-8682873</link>
+            <description>durée : 00:05:53 - Toudou - Dans cette histoire, Toudou va pour la première
+                fois à l'école. C'est un grand jour pour lui.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/5fb69178-e1a3-416f-b71d-6efd6e630856/23713-16.01.2024-ITEMA_23610265-2024F49744E0003-21.mp3"
+                length="5680766" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                c30d8984-431b-48ee-8a1b-bf593365b49a-NET_MFI_3E72BBC4-EBA4-4B8A-97FD-92A49316E8FE</guid>
+            <pubDate>Tue, 16 Jan 2024 09:04:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0003</podcastRF:magnetothequeID>
+            <itunes:title>33/60 : Toudou sur le chemin de l'école</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>33/60 : Toudou sur le chemin de l'école</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>33/60 : Toudou sur le chemin de l'école</itunes:subtitle>
+            <itunes:summary>durée : 00:05:53 - Toudou - Dans cette histoire, Toudou va pour la
+                première fois à l'école. C'est un grand jour pour lui.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:53</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>32/60 : Toudou entre à l'école</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-entre-a-l-ecole-5290057</link>
+            <description>durée : 00:07:02 - Toudou - Toudou, tout content d'aller pour la première
+                fois à l'école, arrive dans sa classe. Et là, rien ne se passe comme prévu !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/c2f363f5-e3d0-4066-89d5-7da7a6acc471/23713-16.01.2024-ITEMA_23610265-2024F49744E0004-21.mp3"
+                length="6788398" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                2b7b712d-0ba2-47c6-9461-ae2f4bd4f5e0-NET_MFI_130FAD0D-78BE-42F7-87DF-9C5976B68E44</guid>
+            <pubDate>Tue, 16 Jan 2024 09:02:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0004</podcastRF:magnetothequeID>
+            <itunes:title>32/60 : Toudou entre à l'école</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>32/60 : Toudou entre à l'école</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>32/60 : Toudou entre à l'école</itunes:subtitle>
+            <itunes:summary>durée : 00:07:02 - Toudou - Toudou, tout content d'aller pour la
+                première fois à l'école, arrive dans sa classe. Et là, rien ne se passe comme
+                prévu !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:02</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>31/60 : Toudou se souvient</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-se-souvient-9683492</link>
+            <description>durée : 00:08:35 - Toudou - Dans cet épisode, Toudou se remémore des
+                moments marquants, dans des histoires précédentes. Toudou a peur du bain, Toudou et
+                la colère... On revient ainsi sur des découvertes et des apprentissages.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/d4bdb3e2-73e5-43a3-95e1-33e0103fa3fd/23713-16.01.2024-ITEMA_23610265-2024F49744E0005-21.mp3"
+                length="8280215" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                ff163adc-6d00-437f-a526-06e7308eff6c-NET_MFI_931FA10A-FA4F-450D-8892-FD25B21907B2</guid>
+            <pubDate>Tue, 16 Jan 2024 09:00:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2024F49744E0005</podcastRF:magnetothequeID>
+            <itunes:title>31/60 : Toudou se souvient</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>31/60 : Toudou se souvient</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>31/60 : Toudou se souvient</itunes:subtitle>
+            <itunes:summary>durée : 00:08:35 - Toudou - Dans cet épisode, Toudou se remémore des
+                moments marquants, dans des histoires précédentes. Toudou a peur du bain, Toudou et
+                la colère... On revient ainsi sur des découvertes et des apprentissages.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:08:35</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>30/60 : Toudou n’a plus peur du noir</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-au-marche-1095578</link>
+            <description>durée : 00:08:17 - Toudou - Toudou a peur du noir mais il appréhende sa
+                peur, en imaginant un monstre gentil.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/70e2af68-5600-4313-b6b8-624e1e85d457/23713-11.10.2023-ITEMA_23515181-2023F49744E0036-21.mp3"
+                length="7984527" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                1bee871c-c75c-4607-95c0-28e561df5a1a-NET_MFI_1442E797-7AF7-4CE9-B033-7FAADA984BCA</guid>
+            <pubDate>Wed, 11 Oct 2023 07:04:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0036</podcastRF:magnetothequeID>
+            <itunes:title>30/60 : Toudou n’a plus peur du noir</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>30/60 : Toudou n’a plus peur du noir</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>30/60 : Toudou n’a plus peur du noir</itunes:subtitle>
+            <itunes:summary>durée : 00:08:17 - Toudou - Toudou a peur du noir mais il appréhende sa
+                peur, en imaginant un monstre gentil.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:08:17</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>29/60 : Toudou dit non</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-fait-des-blagues-8713829</link>
+            <description>durée : 00:06:00 - Toudou - Aujourd'hui, Toudou dit non à tout. Il est
+                vraiment impossible. Que faire ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/d4e7d27f-ae7e-4b75-9b3e-6d3634231633/23713-11.10.2023-ITEMA_23515181-2023F49744E0035-21.mp3"
+                length="5795200" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                cf7cc2bd-af2f-4cb9-8105-72c4d7431e25-NET_MFI_634B9EA7-11BF-4B71-B128-86203892B8FF</guid>
+            <pubDate>Wed, 11 Oct 2023 07:05:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0035</podcastRF:magnetothequeID>
+            <itunes:title>29/60 : Toudou dit non</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>29/60 : Toudou dit non</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>29/60 : Toudou dit non</itunes:subtitle>
+            <itunes:summary>durée : 00:06:00 - Toudou - Aujourd'hui, Toudou dit non à tout. Il est
+                vraiment impossible. Que faire ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:00</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>28/60 : Toudou au marché</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-dit-non-9357449</link>
+            <description>durée : 00:06:45 - Toudou - Toudou se rend au marché, l'occasion de
+                connaître les aliments, et d'interagir avec les marchands.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/903e8207-a8e4-4108-af0e-edaf1351a9c6/23713-11.10.2023-ITEMA_23515181-2023F49744E0034-21.mp3"
+                length="6505380" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                3a68a90a-1c06-4080-9402-73a690834e67-NET_MFI_807B5A9B-412C-4D43-89E7-D052D27EECE0</guid>
+            <pubDate>Wed, 11 Oct 2023 07:06:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0034</podcastRF:magnetothequeID>
+            <itunes:title>28/60 : Toudou au marché</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>28/60 : Toudou au marché</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>28/60 : Toudou au marché</itunes:subtitle>
+            <itunes:summary>durée : 00:06:45 - Toudou - Toudou se rend au marché, l'occasion de
+                connaître les aliments, et d'interagir avec les marchands.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:45</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>27/60 : Toudou fait des blagues</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-n-a-plus-peur-du-noir-2799222</link>
+            <description>durée : 00:06:44 - Toudou - Toudou est de bonne humour, fait des blagues,
+                et rit aux éclats. Une histoire rigolote, en perspective.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/f9ff6083-58b2-4ff8-81c8-d8a17586f1f4/23713-11.10.2023-ITEMA_23515181-2023F49744E0033-21.mp3"
+                length="6489913" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                9ea52cc6-8590-474d-8d76-fcf52bab4241-NET_MFI_EF0DC6A0-F0D1-49B8-925B-DC64557F02D3</guid>
+            <pubDate>Wed, 11 Oct 2023 07:07:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0033</podcastRF:magnetothequeID>
+            <itunes:title>27/60 : Toudou fait des blagues</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>27/60 : Toudou fait des blagues</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>27/60 : Toudou fait des blagues</itunes:subtitle>
+            <itunes:summary>durée : 00:06:44 - Toudou - Toudou est de bonne humour, fait des
+                blagues, et rit aux éclats. Une histoire rigolote, en perspective.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:44</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>26/60 : Toudou se balance</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-se-balance-9661420</link>
+            <description>durée : 00:06:55 - Toudou - Toudou est dans un grand parc avec plein de
+                jeux pour les enfants. Il s'amuse comme un fou !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/c99b302b-b738-4617-b6a2-19228db367c6/23713-11.10.2023-ITEMA_23515181-2023F49744E0032-21.mp3"
+                length="6666264" type="audio/mpeg" />
+            <guid isPermaLink="false">
+                08c62bb1-f0d2-4dfc-aff5-f40d6ed19a52-NET_MFI_D9605BAC-0A18-4DBD-A0D6-C6C38CC71B87</guid>
+            <pubDate>Wed, 11 Oct 2023 07:08:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0032</podcastRF:magnetothequeID>
+            <itunes:title>26/60 : Toudou se balance</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>26/60 : Toudou se balance</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>26/60 : Toudou se balance</itunes:subtitle>
+            <itunes:summary>durée : 00:06:55 - Toudou - Toudou est dans un grand parc avec plein de
+                jeux pour les enfants. Il s'amuse comme un fou !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:55</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>25/60 : Toudou et les bébés oiseaux</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-les-bebes-oiseaux-5996746</link>
+            <description>durée : 00:06:21 - Toudou - Toudou le doudou ne tient pas en place. Dehors,
+                il voit un nid et des petits oiseaux qui sortent d'œufs.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/28189ce1-33a3-4944-b5c6-b0b17cb7ece9/23713-13.06.2023-ITEMA_23409910-2023F49744E0025-21.mp3"
+                length="6137146" type="audio/mpeg" />
+            <guid isPermaLink="false">0e9a92e0-5d29-4146-9ba2-d51dec5d70e0</guid>
+            <pubDate>Tue, 13 Jun 2023 07:18:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0025</podcastRF:magnetothequeID>
+            <itunes:title>25/60 : Toudou et les bébés oiseaux</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>25/60 : Toudou et les bébés oiseaux</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>25/60 : Toudou et les bébés oiseaux</itunes:subtitle>
+            <itunes:summary>durée : 00:06:21 - Toudou - Toudou le doudou ne tient pas en place.
+                Dehors, il voit un nid et des petits oiseaux qui sortent d'œufs.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:21</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>24/60 : Toudou à la plage</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-a-la-plage-3184310</link>
+            <description>durée : 00:08:13 - Toudou - Toudou va à la plage. L'amusement et les
+                aventures sont au rendez-vous !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/86c3f82c-fb7f-4c78-bc5c-906e5f76ff50/23713-13.06.2023-ITEMA_23409910-2023F49744E0023-21.mp3"
+                length="7924673" type="audio/mpeg" />
+            <guid isPermaLink="false">118d5af9-7b0d-49be-aa35-a05c81b68543</guid>
+            <pubDate>Tue, 13 Jun 2023 07:16:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0023</podcastRF:magnetothequeID>
+            <itunes:title>24/60 : Toudou à la plage</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>24/60 : Toudou à la plage</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>24/60 : Toudou à la plage</itunes:subtitle>
+            <itunes:summary>durée : 00:08:13 - Toudou - Toudou va à la plage. L'amusement et les
+                aventures sont au rendez-vous !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:08:13</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>23/60 : Toudou découvre la mer</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-decouvre-la-mer-9248520</link>
+            <description>durée : 00:06:34 - Toudou - Toudou va se baigner dans la mer. Il découvre
+                les vagues, le sable et les mouettes. C'est une sacrée aventure !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/9ad822f1-e8a1-471f-ab14-3eabba18c881/23713-13.06.2023-ITEMA_23409910-2023F49744E0022-21.mp3"
+                length="6334426" type="audio/mpeg" />
+            <guid isPermaLink="false">6f4d9bb8-0a46-4628-8a43-51acf0fef050</guid>
+            <pubDate>Tue, 13 Jun 2023 07:14:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0022</podcastRF:magnetothequeID>
+            <itunes:title>23/60 : Toudou découvre la mer</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>23/60 : Toudou découvre la mer</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>23/60 : Toudou découvre la mer</itunes:subtitle>
+            <itunes:summary>durée : 00:06:34 - Toudou - Toudou va se baigner dans la mer. Il
+                découvre les vagues, le sable et les mouettes. C'est une sacrée aventure !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:34</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>22/60 : Toudou à la ferme</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-a-la-ferme-2425650</link>
+            <description>durée : 00:07:50 - Toudou - Toudou se rend à la ferme et voit tout un tas
+                d'animaux. Les poules, les vaches, les lapins... Il faut s'occuper d'eux !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/dc3db3e5-11d0-41a4-8217-7504b9680913/23713-13.06.2023-ITEMA_23409910-2023F49744E0024-21.mp3"
+                length="7548188" type="audio/mpeg" />
+            <guid isPermaLink="false">e023b778-8d7e-4234-9bae-a1dd165cd611</guid>
+            <pubDate>Tue, 13 Jun 2023 07:12:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0024</podcastRF:magnetothequeID>
+            <itunes:title>22/60 : Toudou à la ferme</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>22/60 : Toudou à la ferme</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>22/60 : Toudou à la ferme</itunes:subtitle>
+            <itunes:summary>durée : 00:07:50 - Toudou - Toudou se rend à la ferme et voit tout un
+                tas d'animaux. Les poules, les vaches, les lapins... Il faut s'occuper d'eux !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:50</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>21/60 : Toudou et les étoiles</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-les-etoiles-1238569</link>
+            <description>durée : 00:07:33 - Toudou - Toudou dort à la belle étoile. C'est l'occasion
+                de regarder le ciel. On se sent tout petit !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/609b0788-1eb9-48d0-b074-3bf9e4075cc1/23713-13.06.2023-ITEMA_23409910-2023F49744E0026-21.mp3"
+                length="7281900" type="audio/mpeg" />
+            <guid isPermaLink="false">1ae8f82e-a4b3-4747-8068-f75d0225f71f</guid>
+            <pubDate>Tue, 13 Jun 2023 07:10:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0026</podcastRF:magnetothequeID>
+            <itunes:title>21/60 : Toudou et les étoiles</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>21/60 : Toudou et les étoiles</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>21/60 : Toudou et les étoiles</itunes:subtitle>
+            <itunes:summary>durée : 00:07:33 - Toudou - Toudou dort à la belle étoile. C'est
+                l'occasion de regarder le ciel. On se sent tout petit !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:33</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>20/60 : Fais comme Toudou</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/fais-comme-toudou-6825261</link>
+            <description>durée : 00:07:02 - Toudou - Toudou crée le jeu "Fais comme Toudou" et lance
+                des défis aux enfants qui l'écoutent. On tape d'abord dans ses mains puis on finit
+                par imiter un singe... de plus en plus difficile, et amusant !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/0cc59f51-a724-4ada-9bad-d7c3c0bd9343/23713-08.03.2023-ITEMA_23284951-2023F49744E0010-21.mp3"
+                length="6783451" type="audio/mpeg" />
+            <guid isPermaLink="false">00a74e3a-5a51-45cf-bf38-a1ab96805914</guid>
+            <pubDate>Wed, 08 Mar 2023 12:38:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0010</podcastRF:magnetothequeID>
+            <itunes:title>20/60 : Fais comme Toudou</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>20/60 : Fais comme Toudou</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>20/60 : Fais comme Toudou</itunes:subtitle>
+            <itunes:summary>durée : 00:07:02 - Toudou - Toudou crée le jeu "Fais comme Toudou" et
+                lance des défis aux enfants qui l'écoutent. On tape d'abord dans ses mains puis on
+                finit par imiter un singe... de plus en plus difficile, et amusant !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:02</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>19/60 : Toudou et le piano</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-le-piano-7338468</link>
+            <description>durée : 00:08:31 - Toudou - Toudou mon doudou découvre le piano, se met à
+                en jouer, et s'amuse comme un petit fou !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/73ab7b39-f436-413a-ab98-6df267b36a88/23713-08.03.2023-ITEMA_23284951-2023F49744E0009-21.mp3"
+                length="8210152" type="audio/mpeg" />
+            <guid isPermaLink="false">f28cb129-77a0-4669-a060-5d3fdd545c76</guid>
+            <pubDate>Wed, 08 Mar 2023 12:36:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0009</podcastRF:magnetothequeID>
+            <itunes:title>19/60 : Toudou et le piano</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>19/60 : Toudou et le piano</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>19/60 : Toudou et le piano</itunes:subtitle>
+            <itunes:summary>durée : 00:08:31 - Toudou - Toudou mon doudou découvre le piano, se met
+                à en jouer, et s'amuse comme un petit fou !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:08:31</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>18/60 : Toudou aide à la maison</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-aide-a-la-maison-7282014</link>
+            <description>durée : 00:06:28 - Toudou - Toudou le doudou aide beaucoup à la maison,
+                repas, rangement... et il aime ça !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/bec3923c-6660-47ff-b1a9-cce3006d4d5a/23713-08.03.2023-ITEMA_23284951-2023F49744E0008-21.mp3"
+                length="6236562" type="audio/mpeg" />
+            <guid isPermaLink="false">b66dbd57-3eb8-486f-aa49-fe28e76266fb</guid>
+            <pubDate>Wed, 08 Mar 2023 12:34:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0008</podcastRF:magnetothequeID>
+            <itunes:title>18/60 : Toudou aide à la maison</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>18/60 : Toudou aide à la maison</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>18/60 : Toudou aide à la maison</itunes:subtitle>
+            <itunes:summary>durée : 00:06:28 - Toudou - Toudou le doudou aide beaucoup à la maison,
+                repas, rangement... et il aime ça !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:28</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>17/60 : Toudou chez le docteur</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-chez-le-docteur-9855056</link>
+            <description>durée : 00:06:15 - Toudou - Toudou le doudou joue au docteur. Il a un peu
+                peur au début quand on l'ausculte, mais finalement il est très courageux.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/fe51de32-ed22-4d88-86bb-6cfff1e4d5f4/23713-08.03.2023-ITEMA_23284951-2023F49744E0007-21.mp3"
+                length="6030720" type="audio/mpeg" />
+            <guid isPermaLink="false">541d3465-4642-4db7-887b-33d302c5d2c9</guid>
+            <pubDate>Wed, 08 Mar 2023 12:32:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0007</podcastRF:magnetothequeID>
+            <itunes:title>17/60 : Toudou chez le docteur</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>17/60 : Toudou chez le docteur</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>17/60 : Toudou chez le docteur</itunes:subtitle>
+            <itunes:summary>durée : 00:06:15 - Toudou - Toudou le doudou joue au docteur. Il a un
+                peu peur au début quand on l'ausculte, mais finalement il est très courageux.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:15</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>16/60 : Toudou s'ennuie</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-s-ennuie-4383326</link>
+            <description>durée : 00:07:40 - Toudou - Toudou s'ennuie, il pleut dehors, et il ne sait
+                pas quoi faire. Finalement, en regardant à l'extérieur, il a une idée !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/b6cd3ca8-a0c2-422e-84f7-45b04173941f/23713-08.03.2023-ITEMA_23284951-2023F49744E0006-21.mp3"
+                length="7391208" type="audio/mpeg" />
+            <guid isPermaLink="false">9565a98c-9e4c-4c98-a85f-853b082fbb69</guid>
+            <pubDate>Wed, 08 Mar 2023 12:30:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0006</podcastRF:magnetothequeID>
+            <itunes:title>16/60 : Toudou s'ennuie</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>16/60 : Toudou s'ennuie</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>16/60 : Toudou s'ennuie</itunes:subtitle>
+            <itunes:summary>durée : 00:07:40 - Toudou - Toudou s'ennuie, il pleut dehors, et il ne
+                sait pas quoi faire. Finalement, en regardant à l'extérieur, il a une idée !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:40</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>15/60 : Toudou et le gâteau dégoûtant</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-le-gateau-degoutant-8457823</link>
+            <description>durée : 00:07:00 - Toudou - Toudou le doudou prépare vraiment le gâteau le
+                plus dégoûtant de la Terre ! Vous voulez la recette ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/799ebfda-38d2-46c3-bc50-630f6dc5d7ef/23713-08.03.2023-ITEMA_23284951-2023F49744E0005-21.mp3"
+                length="6746108" type="audio/mpeg" />
+            <guid isPermaLink="false">4ae38380-f9c3-4e01-9926-1b73ef7090fb</guid>
+            <pubDate>Wed, 08 Mar 2023 12:28:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0005</podcastRF:magnetothequeID>
+            <itunes:title>15/60 : Toudou et le gâteau dégoûtant</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>15/60 : Toudou et le gâteau dégoûtant</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>15/60 : Toudou et le gâteau dégoûtant</itunes:subtitle>
+            <itunes:summary>durée : 00:07:00 - Toudou - Toudou le doudou prépare vraiment le gâteau
+                le plus dégoûtant de la Terre ! Vous voulez la recette ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:00</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>14/60 : Toudou et le printemps</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-le-printemps-4121065</link>
+            <description>durée : 00:07:01 - Toudou - C'est le printemps ! Toudou, mon doudou,
+                découvre la nature dans le jardin. Animaux, fleurs, herbe... il s'émerveille. -
+                invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice, Sylvie Chokron :
+                Neuropsychologue, directrice de recherche CNRS.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/950cc2a3-83ec-41cb-957d-d950f01b8aa7/23713-08.03.2023-ITEMA_23284951-2023F49744E0004-21.mp3"
+                length="6771782" type="audio/mpeg" />
+            <guid isPermaLink="false">8ffb5d13-af8d-4b43-bb12-01f206bbbfea</guid>
+            <pubDate>Wed, 08 Mar 2023 12:26:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0004</podcastRF:magnetothequeID>
+            <itunes:title>14/60 : Toudou et le printemps</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>14/60 : Toudou et le printemps</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>14/60 : Toudou et le printemps</itunes:subtitle>
+            <itunes:summary>durée : 00:07:01 - Toudou - C'est le printemps ! Toudou, mon doudou,
+                découvre la nature dans le jardin. Animaux, fleurs, herbe... il s'émerveille. -
+                invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice, Sylvie Chokron :
+                Neuropsychologue, directrice de recherche CNRS.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:01</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>13/60 : Toudou n'aime pas les carottes</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-n-aime-pas-les-carottes-4228495</link>
+            <description>durée : 00:06:07 - Toudou - par : Zoé Varier - Toudou le doudou est très
+                gourmand. Il mange de tout. Sauf des carottes. Il a décidé que les carottes, ce
+                n'était pas bon du tout. - invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier :
+                Productrice, Sylvie Chokron : Neuropsychologue, directrice de recherche CNRS. -
+                réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/01eebfcd-18dd-4105-ba19-5d9289a76f2c/23713-08.03.2023-ITEMA_23284951-2023F49744E0003-21.mp3"
+                length="5907304" type="audio/mpeg" />
+            <guid isPermaLink="false">2a9656aa-0dd8-48bd-9b75-5cae84548eb1</guid>
+            <pubDate>Wed, 08 Mar 2023 12:24:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0003</podcastRF:magnetothequeID>
+            <itunes:title>13/60 : Toudou n'aime pas les carottes</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>13/60 : Toudou n'aime pas les carottes</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>13/60 : Toudou n'aime pas les carottes</itunes:subtitle>
+            <itunes:summary>durée : 00:06:07 - Toudou - par : Zoé Varier - Toudou le doudou est très
+                gourmand. Il mange de tout. Sauf des carottes. Il a décidé que les carottes, ce
+                n'était pas bon du tout. - invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier :
+                Productrice, Sylvie Chokron : Neuropsychologue, directrice de recherche CNRS. -
+                réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:06:07</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>12/60 : Toudou, les yeux dans les yeux</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-les-yeux-dans-les-yeux-2417801</link>
+            <description>durée : 00:05:59 - Toudou - par : Zoé Varier - Le soir, les enfants ont
+                besoin d'un rituel, avant de se coucher. Et Toudou le doudou a lui aussi ses petites
+                habitudes. - invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice, Sylvie
+                Chokron : Neuropsychologue, directrice de recherche CNRS. - réalisé par : Flora
+                BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/81ed5a89-a75a-4931-b20d-2b3562002394/23713-08.03.2023-ITEMA_23284951-2023F49744E0002-21.mp3"
+                length="5780397" type="audio/mpeg" />
+            <guid isPermaLink="false">a140fc0b-a2a7-4957-b769-8d515ddc4c34</guid>
+            <pubDate>Wed, 08 Mar 2023 12:22:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0002</podcastRF:magnetothequeID>
+            <itunes:title>12/60 : Toudou, les yeux dans les yeux</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>12/60 : Toudou, les yeux dans les yeux</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>12/60 : Toudou, les yeux dans les yeux</itunes:subtitle>
+            <itunes:summary>durée : 00:05:59 - Toudou - par : Zoé Varier - Le soir, les enfants ont
+                besoin d'un rituel, avant de se coucher. Et Toudou le doudou a lui aussi ses petites
+                habitudes. - invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice, Sylvie
+                Chokron : Neuropsychologue, directrice de recherche CNRS. - réalisé par : Flora
+                BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:59</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>11/60 : Toudou touche à tout</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-touche-a-tout-4079020</link>
+            <description>durée : 00:05:55 - Toudou - par : Zoé Varier - Toudou est un peu déchaîné
+                aujourd'hui et a décidé de toucher à tout ce qu’il voit. - invités : Sylvie CHOKRON,
+                Zoé Varier - Sylvie Chokron : Neuropsychologue, directrice de recherche CNRS., Zoé
+                Varier : Productrice - réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/d2f77cd8-9c6d-4ce6-91c7-a21fb5c3e44a/23713-08.03.2023-ITEMA_23284951-2023F49744E0001-21.mp3"
+                length="5706603" type="audio/mpeg" />
+            <guid isPermaLink="false">96b08030-5dab-4a44-b782-85590ff9991b</guid>
+            <pubDate>Wed, 08 Mar 2023 12:20:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2023F49744E0001</podcastRF:magnetothequeID>
+            <itunes:title>11/60 : Toudou touche à tout</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>11/60 : Toudou touche à tout</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>11/60 : Toudou touche à tout</itunes:subtitle>
+            <itunes:summary>durée : 00:05:55 - Toudou - par : Zoé Varier - Toudou est un peu
+                déchaîné aujourd'hui et a décidé de toucher à tout ce qu’il voit. - invités : Sylvie
+                CHOKRON, Zoé Varier - Sylvie Chokron : Neuropsychologue, directrice de recherche
+                CNRS., Zoé Varier : Productrice - réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:55</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>10/60 : Toudou et la danse</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/histoire-10-la-danse-8549085</link>
+            <description>durée : 00:05:11 - Toudou - Pour son anniversaire, Toudou a un cadeau et un
+                gâteau, c’est la fête !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/05e8019e-3c61-45ff-8db0-ad63160bff41/23713-30.11.2022-ITEMA_23204715-2022F49744E0010-21.mp3"
+                length="5004419" type="audio/mpeg" />
+            <guid isPermaLink="false">d2bf3ec1-dfb4-4583-98ae-572f9fe0be5b</guid>
+            <pubDate>Wed, 30 Nov 2022 11:12:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0010</podcastRF:magnetothequeID>
+            <itunes:title>10/60 : Toudou et la danse</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>10/60 : Toudou et la danse</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>10/60 : Toudou et la danse</itunes:subtitle>
+            <itunes:summary>durée : 00:05:11 - Toudou - Pour son anniversaire, Toudou a un cadeau et
+                un gâteau, c’est la fête !
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:11</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>09/60 : Toudou et la neige</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/histoire-9-la-neige-7677823</link>
+            <description>durée : 00:05:51 - Toudou - par : Zoé Varier - Toudou est tout excité quand
+                il découvre ce tapis blanc dehors : de la neige ! - invités : Zoé Varier, Sylvie
+                CHOKRON - Zoé Varier : Productrice et auteure du podcast "Naître", Sylvie Chokron :
+                Neuropsychologue, directrice de recherche CNRS. - réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/e675e080-99da-43ac-8cd7-24b8e991d760/23713-30.11.2022-ITEMA_23204715-2022F49744E0009-21.mp3"
+                length="5643504" type="audio/mpeg" />
+            <guid isPermaLink="false">5af7941b-7fb8-45f6-84ba-8960a2f779a5</guid>
+            <pubDate>Wed, 30 Nov 2022 11:13:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0009</podcastRF:magnetothequeID>
+            <itunes:title>09/60 : Toudou et la neige</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>09/60 : Toudou et la neige</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>09/60 : Toudou et la neige</itunes:subtitle>
+            <itunes:summary>durée : 00:05:51 - Toudou - par : Zoé Varier - Toudou est tout excité
+                quand il découvre ce tapis blanc dehors : de la neige ! - invités : Zoé Varier,
+                Sylvie CHOKRON - Zoé Varier : Productrice et auteure du podcast "Naître", Sylvie
+                Chokron : Neuropsychologue, directrice de recherche CNRS. - réalisé par : Flora
+                BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:51</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>08/60 : Toudou et Armoire</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/histoire-8-armoire-7871901</link>
+            <description>durée : 00:05:01 - Toudou - par : Zoé Varier - Toudou s’aperçoit, devant
+                l’école, qu’il existe toutes sortes de prénoms différents... et certains sont assez
+                originaux ! - invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice et
+                auteure du podcast "Naître", Sylvie Chokron : Neuropsychologue, directrice de
+                recherche CNRS. - réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/cc729dbf-8583-4439-9a25-8020b60f0289/23713-30.11.2022-ITEMA_23204715-2022F49744E0008-21.mp3"
+                length="4850720" type="audio/mpeg" />
+            <guid isPermaLink="false">e36ef92c-64c5-4852-a007-34f2941e4e7c</guid>
+            <pubDate>Wed, 30 Nov 2022 11:14:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0008</podcastRF:magnetothequeID>
+            <itunes:title>08/60 : Toudou et Armoire</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>08/60 : Toudou et Armoire</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>08/60 : Toudou et Armoire</itunes:subtitle>
+            <itunes:summary>durée : 00:05:01 - Toudou - par : Zoé Varier - Toudou s’aperçoit, devant
+                l’école, qu’il existe toutes sortes de prénoms différents... et certains sont assez
+                originaux ! - invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice et
+                auteure du podcast "Naître", Sylvie Chokron : Neuropsychologue, directrice de
+                recherche CNRS. - réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:01</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>07/60 : Toudou et le rêve</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/histoire-7-le-reve-5575272</link>
+            <description>durée : 00:07:15 - Toudou - par : Zoé Varier - La nuit, Toudou n’arrive pas
+                toujours à se rendormir... Il se balade, se recouche puis fait des rêves en “ou”. -
+                invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice et auteure du
+                podcast "Naître", Sylvie Chokron : Neuropsychologue, directrice de recherche CNRS. -
+                réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/d827d413-18b8-48b2-b4c9-822066de2278/23713-30.11.2022-ITEMA_23204715-2022F49744E0007-21.mp3"
+                length="6986070" type="audio/mpeg" />
+            <guid isPermaLink="false">81539021-09aa-4b32-ad23-6eef2039558a</guid>
+            <pubDate>Wed, 30 Nov 2022 11:15:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0007</podcastRF:magnetothequeID>
+            <itunes:title>07/60 : Toudou et le rêve</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>07/60 : Toudou et le rêve</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>07/60 : Toudou et le rêve</itunes:subtitle>
+            <itunes:summary>durée : 00:07:15 - Toudou - par : Zoé Varier - La nuit, Toudou n’arrive
+                pas toujours à se rendormir... Il se balade, se recouche puis fait des rêves en
+                “ou”. - invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice et auteure
+                du podcast "Naître", Sylvie Chokron : Neuropsychologue, directrice de recherche
+                CNRS. - réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:07:15</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>06/60 : Toudou et le bain</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/histoire-6-le-bain-6996665</link>
+            <description>durée : 00:05:59 - Toudou - Toudou n’a pas très envie de prendre un bain
+                car il a peur... Va-t-il se laisser convaincre ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/30933357-0d51-4dde-ba12-652fcf370dbc/23713-30.11.2022-ITEMA_23204715-2022F49744E0006-21.mp3"
+                length="5781028" type="audio/mpeg" />
+            <guid isPermaLink="false">fff6d26f-7324-4904-81eb-c6ad34912629</guid>
+            <pubDate>Wed, 30 Nov 2022 11:16:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0006</podcastRF:magnetothequeID>
+            <itunes:title>06/60 : Toudou et le bain</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>06/60 : Toudou et le bain</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>06/60 : Toudou et le bain</itunes:subtitle>
+            <itunes:summary>durée : 00:05:59 - Toudou - Toudou n’a pas très envie de prendre un bain
+                car il a peur... Va-t-il se laisser convaincre ?
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:59</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>05/60 : Toudou et la forêt</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/histoire-5-la-foret-8799189</link>
+            <description>durée : 00:05:55 - Toudou - Toudou prend beaucoup de plaisir à se balader
+                en forêt, car il sent le vent, découvre toutes sortes d’arbres et rencontre des
+                animaux. - invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice et
+                auteure du podcast "Naître", Sylvie Chokron : Neuropsychologue, directrice de
+                recherche CNRS.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/f83efcf0-bf8e-41fa-9823-6602b30a23b8/23713-30.11.2022-ITEMA_23204715-2022F49744E0005-21.mp3"
+                length="5706320" type="audio/mpeg" />
+            <guid isPermaLink="false">ab9a1a61-92ff-466e-930c-8c9fb33f3577</guid>
+            <pubDate>Wed, 30 Nov 2022 11:17:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0005</podcastRF:magnetothequeID>
+            <itunes:title>05/60 : Toudou et la forêt</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>05/60 : Toudou et la forêt</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>05/60 : Toudou et la forêt</itunes:subtitle>
+            <itunes:summary>durée : 00:05:55 - Toudou - Toudou prend beaucoup de plaisir à se
+                balader en forêt, car il sent le vent, découvre toutes sortes d’arbres et rencontre
+                des animaux. - invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice et
+                auteure du podcast "Naître", Sylvie Chokron : Neuropsychologue, directrice de
+                recherche CNRS.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:55</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>04/60 : Toudou et le chiffre deux</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/histoire-4-deux-5542756</link>
+            <description>durée : 00:05:47 - Toudou - Toudou est invité dans la famille de Gaspard le
+                canard, et il va faire une découverte étonnante... - invités : Zoé Varier, Sylvie
+                CHOKRON - Zoé Varier : Productrice et auteure du podcast "Naître", Sylvie Chokron :
+                Neuropsychologue, directrice de recherche CNRS.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/e2b5d115-127e-4a9c-b532-d03d8653b907/23713-30.11.2022-ITEMA_23204715-2022F49744E0004-21.mp3"
+                length="5591714" type="audio/mpeg" />
+            <guid isPermaLink="false">8b5dd690-d5e6-453e-a781-e161442d7c8c</guid>
+            <pubDate>Wed, 30 Nov 2022 11:18:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0004</podcastRF:magnetothequeID>
+            <itunes:title>04/60 : Toudou et le chiffre deux</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>France Inter</itunes:author>
+            <itunes:keywords>04/60 : Toudou et le chiffre deux</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>04/60 : Toudou et le chiffre deux</itunes:subtitle>
+            <itunes:summary>durée : 00:05:47 - Toudou - Toudou est invité dans la famille de Gaspard
+                le canard, et il va faire une découverte étonnante... - invités : Zoé Varier, Sylvie
+                CHOKRON - Zoé Varier : Productrice et auteure du podcast "Naître", Sylvie Chokron :
+                Neuropsychologue, directrice de recherche CNRS.
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:47</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>03/60 : Toudou et la colère</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-et-la-colere-6444133</link>
+            <description>durée : 00:05:19 - Toudou - par : Zoé Varier - Toudou est au parc. Il
+                s’amuse comme un petit fou, quand soudain il entend un enfant hurler. Mais que se
+                passe-t-il ? Le petit ne veut pas arrêter de jouer, ni rentrer à la maison... -
+                invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice et auteure du
+                podcast "Naître", Sylvie Chokron : Neuropsychologue, directrice de recherche CNRS. -
+                réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/c087d5a2-9b6a-4bee-9bfb-4883a6bbe7e3/23713-30.11.2022-ITEMA_23204715-2022F49744E0003-21.mp3"
+                length="5130899" type="audio/mpeg" />
+            <guid isPermaLink="false">df42b699-ce15-492a-8bed-8d7a63dee1b3</guid>
+            <pubDate>Wed, 30 Nov 2022 11:19:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0003</podcastRF:magnetothequeID>
+            <itunes:title>03/60 : Toudou et la colère</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>03/60 : Toudou et la colère</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>03/60 : Toudou et la colère</itunes:subtitle>
+            <itunes:summary>durée : 00:05:19 - Toudou - par : Zoé Varier - Toudou est au parc. Il
+                s’amuse comme un petit fou, quand soudain il entend un enfant hurler. Mais que se
+                passe-t-il ? Le petit ne veut pas arrêter de jouer, ni rentrer à la maison... -
+                invités : Zoé Varier, Sylvie CHOKRON - Zoé Varier : Productrice et auteure du
+                podcast "Naître", Sylvie Chokron : Neuropsychologue, directrice de recherche CNRS. -
+                réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:19</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>02/60 : Toudou et les mots doudous</title>
+            <link>
+                https://www.radiofrance.fr/franceinter/podcasts/toudou/histoire-2-les-mots-doudous-3209069</link>
+            <description>durée : 00:05:32 - Toudou - par : Zoé Varier - Toudou est gourmand et il a
+                du mal à s’empêcher de manger toutes les gaufrettes qu’il a sous le coude. Savoir
+                s’arrêter, se contrôler, c’est un apprentissage. - invités : Zoé Varier, Sylvie
+                CHOKRON - Zoé Varier : Productrice et auteure du podcast "Naître", Sylvie Chokron :
+                Neuropsychologue, directrice de recherche CNRS. - réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/b38638c4-13d6-44b2-8dc5-3dbe683bdb42/23713-30.11.2022-ITEMA_23204715-2022F49744E0002-21.mp3"
+                length="5346085" type="audio/mpeg" />
+            <guid isPermaLink="false">2984d2cb-b7eb-44d0-8abe-9d96642a58ed</guid>
+            <pubDate>Wed, 30 Nov 2022 11:20:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0002</podcastRF:magnetothequeID>
+            <itunes:title>02/60 : Toudou et les mots doudous</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>02/60 : Toudou et les mots doudous</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>02/60 : Toudou et les mots doudous</itunes:subtitle>
+            <itunes:summary>durée : 00:05:32 - Toudou - par : Zoé Varier - Toudou est gourmand et il
+                a du mal à s’empêcher de manger toutes les gaufrettes qu’il a sous le coude. Savoir
+                s’arrêter, se contrôler, c’est un apprentissage. - invités : Zoé Varier, Sylvie
+                CHOKRON - Zoé Varier : Productrice et auteure du podcast "Naître", Sylvie Chokron :
+                Neuropsychologue, directrice de recherche CNRS. - réalisé par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:05:32</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+        <item>
+            <title>01/60 : Toudou, mon doudou</title>
+            <link>https://www.radiofrance.fr/franceinter/podcasts/toudou/toudou-6633184</link>
+            <description>durée : 00:04:34 - Toudou - par : Zoé Varier - Faites la connaissance de
+                Toudou le doudou dans cette petite histoire où il est question de son odeur, et de
+                sa maladresse. - invités : Sylvie CHOKRON, Zoé Varier - Sylvie Chokron :
+                Neuropsychologue, directrice de recherche CNRS., Zoé Varier : Productrice - réalisé
+                par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</description>
+            <author>podcast@radiofrance.com</author>
+            <category>Leisure</category>
+            <enclosure
+                url="https://proxycast.radiofrance.fr/ea3b0d85-29cd-4ef3-ae88-7d5c5102cd41/23713-30.11.2022-ITEMA_23204715-2022F49744E0001-21.mp3"
+                length="4418140" type="audio/mpeg" />
+            <guid isPermaLink="false">c4b1fc8d-0241-41f4-b37c-87f8622338f8</guid>
+            <pubDate>Wed, 30 Nov 2022 11:21:00 +2000</pubDate>
+            <podcastRF:businessReference>49744</podcastRF:businessReference>
+            <podcastRF:magnetothequeID>2022F49744E0001</podcastRF:magnetothequeID>
+            <itunes:title>01/60 : Toudou, mon doudou</itunes:title>
+            <itunes:image
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:author>Zoé Varier</itunes:author>
+            <itunes:keywords>01/60 : Toudou, mon doudou</itunes:keywords>
+            <itunes:category text="Radio France" />
+            <itunes:owner
+                href="https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/59fe71eb-a666-4f2a-aff1-a675918eeca1/1400x1400_sc_toudou-histoires.jpg" />
+            <itunes:subtitle>01/60 : Toudou, mon doudou</itunes:subtitle>
+            <itunes:summary>durée : 00:04:34 - Toudou - par : Zoé Varier - Faites la connaissance de
+                Toudou le doudou dans cette petite histoire où il est question de son odeur, et de
+                sa maladresse. - invités : Sylvie CHOKRON, Zoé Varier - Sylvie Chokron :
+                Neuropsychologue, directrice de recherche CNRS., Zoé Varier : Productrice - réalisé
+                par : Flora BERNARD
+
+                Vous aimez ce podcast ? Pour écouter tous les autres épisodes sans limite,
+                rendez-vous sur Radio France.</itunes:summary>
+            <itunes:duration>00:04:34</itunes:duration>
+            <googleplay:block>yes</googleplay:block>
+        </item>
+    </channel>
+</rss>
