@@ -1,12 +1,18 @@
+import argparse
 import podcastparser
 import xml.etree.ElementTree as ET
 import urllib.request
 import pprint
-from xml.dom import minidom
-import requests
 import re
 import time
 import json
+import requests
+import os
+from xml.dom import minidom
+from mutagen.id3 import ID3, APIC, TIT2, TALB, TPE1
+from io import BytesIO
+from PIL import Image
+from datetime import datetime, timedelta
 
 def ajouter_zeros(nombre):
     # Convertir le nombre en chaîne de caractères
@@ -36,6 +42,45 @@ def download_rss(url, cache_file):
     else:
         raise Exception(f"Failed to download RSS feed: HTTP {response.status_code}")
 
+def download_and_tag_mp3(url, title):
+    # URL du fichier MP3 et de l'image de couverture
+    mp3_url = url
+    cover_url = 'https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/0e9a29ba-7954-47ae-b0c6-b8cb16efdf3d/1400x1400_rf_omm_0000037236_ite.jpg'
+    # Télécharger le fichier MP3
+    mp3_response = requests.get(mp3_url)
+    temp_mp3_path = 'temp_music.mp3'
+    with open(temp_mp3_path, 'wb') as mp3_file:
+        mp3_file.write(mp3_response.content)
+    # Télécharger l'image de couverture
+    cover_response = requests.get(cover_url)
+    cover_image = Image.open(BytesIO(cover_response.content))
+    # Sauvegarder l'image de couverture localement
+    cover_path = 'cover.jpg'
+    cover_image.save(cover_path)
+    # Ajouter les métadonnées au fichier MP3
+    audio = ID3(temp_mp3_path)
+    # Ajouter le titre, l'artiste et l'album
+    audio['TIT2'] = TIT2(encoding=3, text=title)
+    audio['TPE1'] = TPE1(encoding=3, text='Radio France')
+    audio['TALB'] = TALB(encoding=3, text='les histoires de Toudou')
+    # Ajouter la couverture de l'album
+    with open(cover_path, 'rb') as albumart:
+        audio['APIC'] = APIC(
+            encoding=3,
+            mime='image/jpeg',
+            type=3, # 3 is for the cover (front)
+            desc='Cover',
+            data=albumart.read()
+        )
+    # Sauvegarder les modifications
+    audio.save()
+    # Renommer le fichier MP3 avec le titre de la chanson
+    final_mp3_path = f'{title.replace('/60 : ',' - ')}.mp3'
+    os.rename(temp_mp3_path, final_mp3_path)
+    # Supprimer le fichier image temporaire
+    os.remove(cover_path)
+    print(f"Fichier MP3 téléchargé et renommé avec succès : {final_mp3_path}")
+
 def modify_podcast_rss(input_url, cache_file, output_file):
     try:
         # Essayer de lire le contenu mis en cache
@@ -49,7 +94,7 @@ def modify_podcast_rss(input_url, cache_file, output_file):
             rss_content = f.read()
     # Analyser le flux RSS à partir de l'URL
     parsed = podcastparser.parse(input_url, urllib.request.urlopen(input_url))
-    with open("yourlogfile.json", "w") as log_file:
+    with open("log.json", "w") as log_file:
         pprint.pprint(parsed, log_file)
     # Créer un nouvel élément RSS
     rss = ET.Element("rss", {
@@ -60,16 +105,16 @@ def modify_podcast_rss(input_url, cache_file, output_file):
         "version":"2.0",
     })
     channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = 'Uniquement les histoires de Toudou'
+    toptitle='Uniquement les histoires de Toudou'
+    ET.SubElement(channel, "title").text = toptitle
     ET.SubElement(channel, "link").text = parsed.get('link', '')
     ET.SubElement(channel, "description").text = parsed.get('description', '')
     ET.SubElement(channel, "language").text = parsed.get('language', '')
     ET.SubElement(channel, "copyright").text = parsed.get('generator', '')
-    # ET.SubElement(channel, "lastBuildDate").text = parsed.get('lastBuildDate', '')
     ET.SubElement(channel, "generator").text = parsed.get('generator', '')
     img = ET.SubElement(channel, "image")
     ET.SubElement(img, "url").text = "https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/0e9a29ba-7954-47ae-b0c6-b8cb16efdf3d/1400x1400_rf_omm_0000037236_ite.jpg"
-    ET.SubElement(img, "title").text = 'Uniquement les histoires de Toudou'
+    ET.SubElement(img, "title").text = toptitle
     ET.SubElement(img, "link").text = "https://www.radiofrance.fr/franceinter/podcasts/toudou"
     ET.SubElement(channel, "itunes:author").text = 'France Inter'
     ET.SubElement(channel, "itunes:category", {
@@ -82,14 +127,13 @@ def modify_podcast_rss(input_url, cache_file, output_file):
     owners = ET.SubElement(channel, "itunes:owner")
     ET.SubElement(owners, "itunes:email").text = parsed.get('itunes_owner', '').get('email')
     ET.SubElement(owners, "itunes:name").text = parsed.get('generator', '')
-    ET.SubElement(channel, "itunes:subtitle").text = 'Uniquement les histoires de Toudou'
+    ET.SubElement(channel, "itunes:subtitle").text = toptitle
     ET.SubElement(channel, "itunes:summary").text = ''
     ET.SubElement(channel, "itunes:new-feed-url").text = parsed.get('new_url', '')
     ET.SubElement(channel, "pa:new-feed-url").text = parsed.get('new_url', '')
     ET.SubElement(channel, "podcastRF:originStation").text = '1'
     ET.SubElement(channel, "googleplay:block").text = 'yes'
     # Trier les épisodes par titre
-    # sorted_episodes = sorted(parsed['episodes'], key=lambda x: x.get('title', ''))
     sorted_episodes = sorted(parsed['episodes'], key=lambda x: extract_number(x.get('title', '')), reverse=True)
     # Ajouter les épisodes triés et modifiés avec un élément file_size conditionnel
     episodes_added_list=set([])
@@ -97,15 +141,10 @@ def modify_podcast_rss(input_url, cache_file, output_file):
         episode_nomber=ajouter_zeros(extract_number(episode.get('title', '')))
         if (episode.get('title', '').startswith("Les histoires de Toudou")) and (episode_nomber not in episodes_added_list) :
             item = ET.SubElement(channel, "item")
-            # print(ajouter_zeros(extract_number(episode.get('title', ''))))
             title=f"{episode_nomber}/{episode['title'].replace('Les histoires de Toudou ', '').split('/')[1]}"
             print(episode_nomber)
-            # print(episode_nomber not in episodes_added_list)
+            title= title.replace('/'+episode['title'].replace('Les histoires de Toudou ', '').split('/')[1].split(' : ')[0]+' : ',' - ')
             episodes_added_list.add(episode_nomber)
-            # print(episodes_added_list)
-            # print(f"episode_nomber {episode_nomber}")
-            # print(f"episode_added {episode_added}")
-            # ET.SubElement(item, "title").text = f"Modified: {episode['title'].replace('Les histoires de Toudou ', '')}"
             ET.SubElement(item, "title").text = title
             ET.SubElement(item, "link").text = episode.get('link', '')
             ET.SubElement(item, "description").text = episode.get('description', '')
@@ -124,16 +163,19 @@ def modify_podcast_rss(input_url, cache_file, output_file):
             ET.SubElement(item, "guid", {
                 "isPermaLink": 'false'
             }).text = episode.get('guid', '')
-            ET.SubElement(item, "pubDate").text = time.strftime("%a, %d %b %Y %I:%M:%S +2000", time.gmtime(episode.get('published', '')))
             ET.SubElement(item, "podcastRF:businessReference").text = '49744'
-            # ET.SubElement(item, "podcastRF:magnetothequeID").text = url.split('-')[-2]
-            # ET.SubElement(item, "podcastRF:magnetothequeID").text = '2025F49744E'
             index = url.find('49744')
             # Extraire la sous-chaîne souhaitée
             if index != -1:
                 result = url[index-5:index+10]
-                # print(result)
                 ET.SubElement(item, "podcastRF:magnetothequeID").text = result
+                year=str(url[index-5:index-1]+"0101")
+                date_obj = datetime.strptime(year, "%Y%m%d")
+                # Ajouter jours
+                new_date_obj = date_obj + timedelta(days=int(episode_nomber))
+                gmtime = new_date_obj.timetuple()
+            ET.SubElement(item, "pubDate").text = time.strftime("%a, %d %b %Y %H:%M:%S +2000", gmtime)
+            # ET.SubElement(item, "pubDate").text = time.strftime("%a, %d %b %Y %I:%M:%S +2000", time.gmtime(episode.get('published', '')))
             ET.SubElement(item, "itunes:title").text = title
             ET.SubElement(item, "itunes:image", {
                 "href": episode.get('episode_art_url', ''),
@@ -150,6 +192,11 @@ def modify_podcast_rss(input_url, cache_file, output_file):
             ET.SubElement(item, "itunes:summary").text = episode.get('description', '')
             ET.SubElement(item, "itunes:duration").text = time.strftime('%H:%M:%S', time.gmtime(episode.get('total_time', ''))) 
             ET.SubElement(item, "googleplay:block").text = 'yes'
+            parser = argparse.ArgumentParser(description='Télécharger et tagger un fichier MP3.')
+            parser.add_argument('--mp3', action='store_true', help='Activer le téléchargement et le taggage du MP3')
+            args = parser.parse_args()
+            if args.mp3:
+                download_and_tag_mp3(url, title)
     # Créer un arbre XML et l'écrire dans un fichier
     tree = ET.ElementTree(rss)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
@@ -159,8 +206,11 @@ def modify_podcast_rss(input_url, cache_file, output_file):
     # with open(output_file, "w") as f:
     #     f.write(pretty_xml)
 
-# Exemple d'utilisation
-input_url = "https://radiofrance-podcast.net/podcast09/rss_23713.xml"
-cache_file = "podcast_cache.xml"
-output_file = "modified_podcast.xml"
-modify_podcast_rss(input_url,cache_file , output_file)
+def main():
+    input_url = "https://radiofrance-podcast.net/podcast09/rss_23713.xml"
+    cache_file = "podcast_cache.xml"
+    output_file = "modified_podcast.xml"
+    modify_podcast_rss(input_url,cache_file , output_file)
+
+if __name__ == "__main__":
+    main()
