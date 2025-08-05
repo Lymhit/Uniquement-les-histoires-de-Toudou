@@ -7,4 +7,4 @@ services:
     working_dir: /app
     # stdin_open: true
     # tty: true
-    command: sh -c "pip install --upgrade pip && pip install podcastparser requests mutagen pillow && python script.py"
+    command: sh -c "pip install --upgrade pip && pip install podcastparser requests mutagen pillow opencv-python && python script.py"

@@ -8,11 +8,37 @@ import time
 import json
 import requests
 import os
+import numpy as np
 from xml.dom import minidom
 from mutagen.id3 import ID3, APIC, TIT2, TALB, TPE1
 from io import BytesIO
 from PIL import Image
 from datetime import datetime, timedelta
+
+def change_blue_to_pink(image_path, output_path):
+    # Ouvrir l'image
+    image = Image.open(image_path)
+
+    # Redimensionner l'image à 256x256 pixels
+    resized_image = image.resize((256, 256))
+
+    # Convertir l'image en tableau numpy pour le traitement
+    img_array = np.array(resized_image)
+
+    # Changer les nuances de bleu en nuances de rose
+    # Définir les plages de couleur pour le bleu
+    blue_mask = ((img_array[:, :, 0] < 100) &
+                 (img_array[:, :, 1] < 100) &
+                 (img_array[:, :, 2] > 100))
+
+    # Appliquer le changement de couleur
+    img_array[blue_mask] = [255, 192, 203]  # Rose
+
+    # Convertir le tableau numpy de nouveau en image
+    result_image = Image.fromarray(img_array)
+
+    # Sauvegarder l'image modifiée
+    result_image.save(output_path)
 
 def ajouter_zeros(nombre):
     # Convertir le nombre en chaîne de caractères
@@ -56,7 +82,8 @@ def download_and_tag_mp3(url, title):
     cover_image = Image.open(BytesIO(cover_response.content))
     # Sauvegarder l'image de couverture localement
     cover_path = 'cover.jpg'
-    cover_image.save(cover_path)
+    cover_image.save('tmp_cover.jpg')
+    change_blue_to_pink('tmp_cover.jpg', cover_path)
     # Ajouter les métadonnées au fichier MP3
     audio = ID3(temp_mp3_path)
     # Ajouter le titre, l'artiste et l'album
@@ -78,7 +105,7 @@ def download_and_tag_mp3(url, title):
     final_mp3_path = f'{title.replace('/60 : ',' - ')}.mp3'
     os.rename(temp_mp3_path, final_mp3_path)
     # Supprimer le fichier image temporaire
-    os.remove(cover_path)
+    os.remove('tmp_cover.jpg')
     print(f"Fichier MP3 téléchargé et renommé avec succès : {final_mp3_path}")
 
 def modify_podcast_rss(input_url, cache_file, output_file):
@@ -106,6 +133,7 @@ def modify_podcast_rss(input_url, cache_file, output_file):
     })
     channel = ET.SubElement(rss, "channel")
     toptitle='Uniquement les histoires de Toudou'
+    topcover='https://github.com/Lymhit/Uniquement-les-histoires-de-Toudou/blob/main/cover.jpg?raw=true'
     ET.SubElement(channel, "title").text = toptitle
     ET.SubElement(channel, "link").text = parsed.get('link', '')
     ET.SubElement(channel, "description").text = parsed.get('description', '')
@@ -113,7 +141,7 @@ def modify_podcast_rss(input_url, cache_file, output_file):
     ET.SubElement(channel, "copyright").text = parsed.get('generator', '')
     ET.SubElement(channel, "generator").text = parsed.get('generator', '')
     img = ET.SubElement(channel, "image")
-    ET.SubElement(img, "url").text = "https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/0e9a29ba-7954-47ae-b0c6-b8cb16efdf3d/1400x1400_rf_omm_0000037236_ite.jpg"
+    ET.SubElement(img, "url").text = topcover
     ET.SubElement(img, "title").text = toptitle
     ET.SubElement(img, "link").text = "https://www.radiofrance.fr/franceinter/podcasts/toudou"
     ET.SubElement(channel, "itunes:author").text = 'France Inter'
@@ -122,7 +150,7 @@ def modify_podcast_rss(input_url, cache_file, output_file):
     })
     ET.SubElement(channel, "itunes:explicit").text = 'no'
     ET.SubElement(channel, "itunes:image", {
-        "href": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/0e9a29ba-7954-47ae-b0c6-b8cb16efdf3d/1400x1400_rf_omm_0000037236_ite.jpg",
+        "href": topcover,
     })
     owners = ET.SubElement(channel, "itunes:owner")
     ET.SubElement(owners, "itunes:email").text = parsed.get('itunes_owner', '').get('email')
