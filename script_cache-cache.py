@@ -162,16 +162,20 @@ def modify_podcast_rss(input_url, cache_file, output_file):
     ET.SubElement(channel, "podcastRF:originStation").text = '1'
     ET.SubElement(channel, "googleplay:block").text = 'yes'
     # Trier les épisodes par titre
-    sorted_episodes = sorted(parsed['episodes'], key=lambda x: extract_number(x.get('title', '')), reverse=True)
+    sorted_episodes = sorted(parsed['episodes'], key=lambda x: x.get('published'))
+    # sorted_episodes = sorted(parsed['episodes'], key=lambda x: x.get('published'), reverse=True)
     # Ajouter les épisodes triés et modifiés avec un élément file_size conditionnel
     episodes_added_list=set([])
+    key=0
     for episode in sorted_episodes:
-        episode_nomber=ajouter_zeros(extract_number(episode.get('title', '')))
+        episode_nomber=ajouter_zeros(0)
         if (episode.get('title', '').startswith("Cache-cache")) and (episode_nomber not in episodes_added_list) :
+            key=key+1
+            episode_nomber=ajouter_zeros(key)
             item = ET.SubElement(channel, "item")
-            title=f"{episode_nomber}/{episode['title'].replace('Cache-cache ', '').split('/')[1]}"
-            print(episode_nomber)
-            title= title.replace('/'+episode['title'].replace('Cache-cache ', '').split('/')[1].split(' : ')[0]+' : ',' - ')
+            title=f"{episode_nomber} - {episode['title'].replace('Cache-cache : ', '')}"
+            title=title.replace('Cache-cache ', '')
+            # title= title.replace('/'+episode['title'].replace('Cache-cache : ', '').split('/')[1].split(' : ')[0]+' : ',' - ')
             episodes_added_list.add(episode_nomber)
             ET.SubElement(item, "title").text = title
             ET.SubElement(item, "link").text = episode.get('link', '')
