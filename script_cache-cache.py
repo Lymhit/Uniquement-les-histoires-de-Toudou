@@ -71,15 +71,15 @@ def download_rss(url, cache_file):
 def download_and_tag_mp3(url, title):
     # URL du fichier MP3 et de l'image de couverture
     mp3_url = url
-    cover_url = 'https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/0e9a29ba-7954-47ae-b0c6-b8cb16efdf3d/1400x1400_rf_omm_0000037236_ite.jpg'
+    # cover_url = 'https://www.radiofrance.fr/s3/cruiser-production-eu3/2022/11/0e9a29ba-7954-47ae-b0c6-b8cb16efdf3d/1400x1400_rf_omm_0000037236_ite.jpg'
     # Télécharger le fichier MP3
     mp3_response = requests.get(mp3_url)
     temp_mp3_path = 'temp_music.mp3'
     with open(temp_mp3_path, 'wb') as mp3_file:
         mp3_file.write(mp3_response.content)
     # Télécharger l'image de couverture
-    cover_response = requests.get(cover_url)
-    cover_image = Image.open(BytesIO(cover_response.content))
+    # cover_response = requests.get(cover_url)
+    cover_image = Image.open('cover_cache-cache.jpg')
     # Sauvegarder l'image de couverture localement
     cover_path = 'cover_cache-cache.jpg'
     cover_image.save('tmp_cover.jpg')
